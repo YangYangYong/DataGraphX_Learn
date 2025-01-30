@@ -35,7 +35,7 @@ An intelligent document analysis system that combines LangChain, Neo4j graph dat
 
 ### 📦 Project Structure
 ```
-DateGraphX/
+DataGraphX/
 ├── app.py                      # Main application file
 ├── api_utils.py                # API utilities
 ├── config.py                   # Configuration settings
@@ -82,7 +82,7 @@ streamlit run app.py
 ---
 
 <a name="chinese"></a>
-## 🌟 DateGraphX 学习版
+## 🌟 DataGraphX 学习版
 
 一个智能文档分析系统，结合了 LangChain、Neo4j 图数据库和大型语言模型，创建了一个基于知识图谱的 RAG（检索增强生成）应用。
 
@@ -110,7 +110,7 @@ streamlit run app.py
 
 ### 📦 项目结构
 ```
-DateGraphX/
+DataGraphX/
 ├── app.py                      # 主应用程序文件
 ├── api_utils.py                # API工具
 ├── config.py                   # 配置设置
