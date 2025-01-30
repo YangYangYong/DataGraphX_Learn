@@ -1,4 +1,4 @@
-# DateGraphX (Learning Edition)
+# DataGraphX (Learning Edition)
 
 [English](#english) | [中文](#chinese)
 
@@ -7,7 +7,7 @@
 > ⚠️ **注意**: 这是学习版本。商业用途请联系我们定制解决方案！
 
 <a name="english"></a>
-## 🌟 DateGraphX
+## 🌟 DataGraphX
 
 An intelligent document analysis system that combines LangChain, Neo4j graph database, and large language models to create a knowledge graph-based RAG (Retrieval-Augmented Generation) application.
 
@@ -127,8 +127,8 @@ DateGraphX/
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/adoresever/DateGraphX_Learn.git
-cd DateGraphX_Learn
+git clone https://github.com/adoresever/DataGraphX_Learn.git
+cd DataGraphX_Learn
 ```
 
 2. 创建并激活conda环境：
