@@ -160,7 +160,7 @@ streamlit run app.py
 
 ## 📝 致谢
 
-本项目的知识图谱部分参考了 [LightRAG](https://github.com/HKUDS/LightRAG)
+2025新年快乐！
 
 ## 📄 许可证
 
