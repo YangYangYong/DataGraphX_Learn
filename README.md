@@ -53,7 +53,7 @@ DataGraphX/
 1. Clone repository:
 ```bash
 git clone https://github.com/adoresever/DataGraphX_Learn.git
-cd DateGraphX_Learn
+cd DataGraphX_Learn
 ```
 
 2. Create and activate conda environment:
