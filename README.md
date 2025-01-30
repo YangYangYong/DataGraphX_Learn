@@ -52,8 +52,8 @@ DateGraphX/
 
 1. Clone repository:
 ```bash
-git clone https://github.com/adoresever/DateGraphX.git
-cd DateGraphX
+git clone https://github.com/adoresever/DateGraphX_Learn.git
+cd DateGraphX_Learn
 ```
 
 2. Create and activate conda environment:
@@ -127,8 +127,8 @@ DateGraphX/
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/adoresever/DateGraphX.git
-cd DateGraphX
+git clone https://github.com/adoresever/DateGraphX_Learn.git
+cd DateGraphX_Learn
 ```
 
 2. 创建并激活conda环境：
