@@ -52,7 +52,7 @@ DataGraphX/
 
 1. Clone repository:
 ```bash
-git clone https://github.com/adoresever/DateGraphX_Learn.git
+git clone https://github.com/adoresever/DataGraphX_Learn.git
 cd DateGraphX_Learn
 ```
 
