@@ -1,5 +1,5 @@
 """
-DateGraphX - A Knowledge Graph-based RAG Application
+DataGraphX - A Knowledge Graph-based RAG Application
 
 This project implements a Retrieval-Augmented Generation system using knowledge graphs,
 combining LangChain, Neo4j, and large language models for document analysis.
@@ -425,7 +425,7 @@ def validate_config():
 async def main():
     st.set_page_config(
         layout="wide",
-        page_title="DateGraphX",
+        page_title="DataGraphX",
         page_icon=":graph:"
     )
     st.sidebar.image('logo.png', use_container_width=True)
@@ -434,7 +434,7 @@ async def main():
     此应用程序允许您上传PDF文件，将其内容提取到Neo4j图形数据库中，并使用自然语言执行查询。
     它利用LangChain和DeepSeek的模型生成Cypher查询，实时与Neo4j数据库交互。
     """)
-    st.title("DateGraphX：Langchain学习版")
+    st.title("DataGraphX：Langchain学习版")
 
     # 设置日志（新增）
     logger = logging.getLogger('graphy')
